@@ -1,9 +1,10 @@
 import React from 'react'
 import styled from "styled-components";
+import SliderImg from './SliderImg';
 const Home = () => {
   return (
     <Container>
-      
+      <SliderImg/>
     </Container>
   )
 }
