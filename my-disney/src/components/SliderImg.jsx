@@ -34,7 +34,7 @@ const SliderImg = () => {
 export default SliderImg
 
 const Carousel=styled(Slider)`
-   margin-top:20px;
+   margin-top:25px;
    ul li button {
       &:before{
         font-size:10px;
